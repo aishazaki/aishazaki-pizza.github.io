@@ -896,6 +896,10 @@ contact page
   cursor: pointer;
 }
 
+.viewOpen:hover {
+  background-color: rgba(70, 70, 70, 0.8);
+}
+
 .viewOpen i {
   color: rgba(70, 70, 70, 0.8);
 }

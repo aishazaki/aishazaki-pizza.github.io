@@ -898,6 +898,7 @@ contact page
 
 .viewOpen:hover {
   background-color: rgba(70, 70, 70, 0.8);
+  color: #fff;
 }
 
 .viewOpen i {
